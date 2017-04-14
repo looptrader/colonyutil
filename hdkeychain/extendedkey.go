@@ -22,8 +22,8 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainec"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
-	"github.com/decred/dcrutil/base58"
+	"github.com/looptrader/colonyutil"
+	"github.com/looptrader/colonyutil/base58"
 )
 
 const (

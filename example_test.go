@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 func ExampleAmount() {

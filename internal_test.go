@@ -14,7 +14,7 @@ package dcrutil
 
 import (
 	"github.com/looptrader/colonyd/chaincfg/chainec"
-	"github.com/decred/dcrutil/base58"
+	"github.com/looptrader/colonyutil/base58"
 
 	"golang.org/x/crypto/ripemd160"
 )

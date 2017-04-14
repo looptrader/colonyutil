@@ -11,7 +11,7 @@ import (
 	"sort"
 	"testing"
 
-	. "github.com/decred/dcrutil"
+	. "github.com/looptrader/colonyutil"
 )
 
 func TestAmountCreation(t *testing.T) {

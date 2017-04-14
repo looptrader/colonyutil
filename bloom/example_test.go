@@ -12,7 +12,7 @@ import (
 
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil/bloom"
+	"github.com/looptrader/colonyutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

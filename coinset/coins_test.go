@@ -13,8 +13,8 @@ import (
 	"testing"
 
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
-	"github.com/decred/dcrutil"
-	"github.com/decred/dcrutil/coinset"
+	"github.com/looptrader/colonyutil"
+	"github.com/looptrader/colonyutil/coinset"
 )
 
 type TestCoin struct {

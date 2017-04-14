@@ -1,11 +1,11 @@
 coinset
 =======
 
-[![Build Status](http://img.shields.io/travis/decred/dcrutil.svg)]
-(https://travis-ci.org/decred/dcrutil) [![ISC License]
+[![Build Status](http://img.shields.io/travis/looptrader/colonyutil.svg)]
+(https://travis-ci.org/looptrader/colonyutil) [![ISC License]
 (http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)]
-(http://godoc.org/github.com/decred/dcrutil/coinset)
+(http://godoc.org/github.com/looptrader/colonyutil/coinset)
 
 Package coinset provides decred-specific convenience functions for selecting
 from and managing sets of unspent transaction outpoints (UTXOs).
@@ -18,7 +18,7 @@ report.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/decred/dcrutil/coinset
+$ go get -u github.com/looptrader/colonyutil/coinset
 ```
 
 ## Usage

@@ -9,7 +9,7 @@ import (
 	"fmt"
 
 	"github.com/looptrader/colonyd/chaincfg"
-	"github.com/decred/dcrutil/hdkeychain"
+	"github.com/looptrader/colonyutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

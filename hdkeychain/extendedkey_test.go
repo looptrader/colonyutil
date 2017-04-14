@@ -17,7 +17,7 @@ import (
 	"testing"
 
 	"github.com/looptrader/colonyd/chaincfg"
-	"github.com/decred/dcrutil/hdkeychain"
+	"github.com/looptrader/colonyutil/hdkeychain"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

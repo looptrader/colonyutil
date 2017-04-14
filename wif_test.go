@@ -10,7 +10,7 @@ import (
 
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainec"
-	. "github.com/decred/dcrutil"
+	. "github.com/looptrader/colonyutil"
 )
 
 func TestEncodeDecodeWIF(t *testing.T) {

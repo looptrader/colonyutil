@@ -1,13 +1,13 @@
 dcrutil
 =======
 
-[![Build Status](http://img.shields.io/travis/decred/dcrutil.svg)]
-(https://travis-ci.org/decred/dcrutil) [![Coverage Status]
-(http://img.shields.io/coveralls/decred/dcrutil.svg)]
-(https://coveralls.io/r/decred/dcrutil?branch=master) [![ISC License]
+[![Build Status](http://img.shields.io/travis/looptrader/colonyutil.svg)]
+(https://travis-ci.org/looptrader/colonyutil) [![Coverage Status]
+(http://img.shields.io/coveralls/looptrader/colonyutil.svg)]
+(https://coveralls.io/r/looptrader/colonyutil?branch=master) [![ISC License]
 (http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
 [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)]
-(http://godoc.org/github.com/decred/dcrutil)
+(http://godoc.org/github.com/looptrader/colonyutil)
 
 Package dcrutil provides decred-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
@@ -23,7 +23,7 @@ standalone package for any projects needing the functionality provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/decred/dcrutil
+$ go get -u github.com/looptrader/colonyutil
 ```
 
 ## License

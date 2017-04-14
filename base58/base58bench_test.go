@@ -9,7 +9,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/decred/dcrutil/base58"
+	"github.com/looptrader/colonyutil/base58"
 )
 
 func BenchmarkBase58Encode(b *testing.B) {

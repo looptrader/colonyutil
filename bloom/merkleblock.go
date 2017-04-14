@@ -9,7 +9,7 @@ import (
 	"github.com/looptrader/colonyd/blockchain"
 	"github.com/looptrader/colonyd/chaincfg/chainhash"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/decred/dcrutil"
+	"github.com/looptrader/colonyutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a
