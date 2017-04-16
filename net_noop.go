@@ -5,7 +5,7 @@
 
 // +build appengine
 
-package dcrutil
+package colonyutil
 
 import (
 	"net"

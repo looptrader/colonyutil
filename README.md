@@ -9,7 +9,7 @@ dcrutil
 [![GoDoc](http://img.shields.io/badge/godoc-reference-blue.svg)]
 (http://godoc.org/github.com/looptrader/colonyutil)
 
-Package dcrutil provides decred-specific convenience functions and types.
+package colonyutil provides decred-specific convenience functions and types.
 A comprehensive suite of tests is provided to ensure proper functionality.  See
 `test_coverage.txt` for the gocov coverage report.  Alternatively, if you are
 running a POSIX OS, you can run the `cov_report.sh` script for a real-time
@@ -28,5 +28,5 @@ $ go get -u github.com/looptrader/colonyutil
 
 ## License
 
-Package dcrutil is licensed under the [copyfree](http://copyfree.org) ISC
+package colonyutil is licensed under the [copyfree](http://copyfree.org) ISC
 License.

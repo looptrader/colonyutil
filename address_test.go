@@ -3,7 +3,7 @@
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
-package dcrutil_test
+package colonyutil_test
 
 import (
 	"bytes"
@@ -15,7 +15,6 @@ import (
 	"github.com/looptrader/colonyd/chaincfg"
 	"github.com/looptrader/colonyd/chaincfg/chainec"
 	"github.com/looptrader/colonyd/wire"
-	"github.com/looptrader/colonyutil"
 
 	"golang.org/x/crypto/ripemd160"
 )

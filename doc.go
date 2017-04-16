@@ -4,7 +4,7 @@
 // license that can be found in the LICENSE file.
 
 /*
-Package dcrutil provides decred-specific convenience functions and types.
+package colonyutil provides decred-specific convenience functions and types.
 
 Block Overview
 
@@ -44,4 +44,4 @@ To decode/encode an address:
 	}
 	fmt.Println(addr.EncodeAddress())
 */
-package dcrutil
+package colonyutil

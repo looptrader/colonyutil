@@ -1,4 +1,4 @@
-package dcrutil_test
+package colonyutil_test
 
 import (
 	"fmt"
